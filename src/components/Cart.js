@@ -25,7 +25,7 @@ export default class Cart extends Component {
                                 </button>
                             </div>     
                         </li>
-                        ))};
+                        ))}
                     </ul>
                 </div>
             </div>    

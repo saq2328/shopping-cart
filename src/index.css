@@ -166,3 +166,14 @@ footer{
 .cart-items img {
   width: 5rem;
 }
+
+.cart-items img li{
+  display: flex;
+}
+.cart-items li div{
+  padding: 0.5rem;
+}
+
+.cart-items li div:last-child{
+  flex: 1;
+}
